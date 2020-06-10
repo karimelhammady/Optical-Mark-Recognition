@@ -1,0 +1,33 @@
+Image   : d:/learning/cv/Optical-Mark-Recognition-OMR/testcases/22.jpg
+Gender  : DUPLICATE
+Semester: Summer
+Program : ERGY
+Answers :
+	Section 1
+		Q1. DUPLICATE
+		Q2. DUPLICATE
+		Q3. DUPLICATE
+		Q4. DUPLICATE
+		Q5. DUPLICATE
+
+	Section 2
+		Q1. DUPLICATE
+		Q2. DUPLICATE
+		Q3. DUPLICATE
+		Q4. DUPLICATE
+		Q5. DUPLICATE
+		Q6. DUPLICATE
+
+	Section 3
+		Q1. DUPLICATE
+		Q2. DUPLICATE
+		Q3. DUPLICATE
+
+	Section 4
+		Q1. DUPLICATE
+		Q2. DUPLICATE
+		Q3. DUPLICATE
+
+	Section 5
+		Q1. DUPLICATE
+		Q2. DUPLICATE

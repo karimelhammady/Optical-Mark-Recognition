@@ -1,0 +1,33 @@
+Image   : d:/learning/cv/Optical-Mark-Recognition-OMR/testcases/2.jpg
+Gender  : Male
+Semester: Summer
+Program : MANF
+Answers :
+	Section 1
+		Q1. 3
+		Q2. 1
+		Q3. 3
+		Q4. 1
+		Q5. 2
+
+	Section 2
+		Q1. 4
+		Q2. 4
+		Q3. 4
+		Q4. 2
+		Q5. 2
+		Q6. 1
+
+	Section 3
+		Q1. 3
+		Q2. 1
+		Q3. 2
+
+	Section 4
+		Q1. 1
+		Q2. 4
+		Q3. 1
+
+	Section 5
+		Q1. 3
+		Q2. 2
